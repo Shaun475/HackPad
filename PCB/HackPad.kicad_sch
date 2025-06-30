@@ -1540,6 +1540,16 @@
 	)
 	(wire
 		(pts
+			(xy 248.92 105.41) (xy 261.62 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "10ed6bfe-97de-4276-bdbc-032c417dcf70")
+	)
+	(wire
+		(pts
 			(xy 151.13 125.73) (xy 175.26 125.73)
 		)
 		(stroke
@@ -1720,6 +1730,16 @@
 	)
 	(wire
 		(pts
+			(xy 261.62 105.41) (xy 261.62 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a525fb6a-daf4-4bbc-9728-bb28a2cb1c84")
+	)
+	(wire
+		(pts
 			(xy 190.5 153.67) (xy 190.5 157.48)
 		)
 		(stroke
@@ -1820,6 +1840,16 @@
 	)
 	(wire
 		(pts
+			(xy 261.62 71.12) (xy 259.08 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cfe228aa-2be5-4e19-926e-b6b9474cbf62")
+	)
+	(wire
+		(pts
 			(xy 175.26 166.37) (xy 195.58 166.37)
 		)
 		(stroke
@@ -1898,6 +1928,16 @@
 		)
 		(uuid "f9f13a3b-f188-4249-b24b-e36c472509b2")
 	)
+	(wire
+		(pts
+			(xy 248.92 105.41) (xy 248.92 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fd798126-c5fa-42cb-bee4-4988d06f96eb")
+	)
 	(global_label "ROW2"
 		(shape input)
 		(at 210.82 127 0)
@@ -1960,28 +2000,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "3V3"
-		(shape input)
-		(at 248.92 104.14 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "22c55a4b-907d-43a9-b4d5-2e976a1a39a6")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 255.4128 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
 				(hide yes)
 			)
 		)
