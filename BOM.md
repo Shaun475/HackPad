@@ -3,7 +3,7 @@
 | Product | Qty |
 |---------|-----|
 | Keycaps 1u | 13 |
-| Keycaps 2u | 3 |
+| [Keycaps 2u] https://keycapsss.com/DSA-Blank-PBT-2U-Keycaps-for-MX-Switches/KC10036-GA | 3 |
 | Diode (1N4148WS) | 16 |
 | Rotary Encoder | 1 |
 | XIAO RP-2040 | 1 |
